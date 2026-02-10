@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "rating": 4.5,
+    "description": "A journey of self-discovery following a young shepherd.",
+    "image": "https://covers.openlibrary.org/b/id/7156516-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "rating": 4.8,
+    "description": "Small habits that lead to big results.",
+    "image": "https://covers.openlibrary.org/b/id/9250118-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "rating": 4.7,
+    "description": "A chilling story of totalitarianism and control.",
+    "image": "https://books.google.com/books/content?id=1aIFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": 4,
+    "title": "The Power of Your Subconscious Mind",
+    "author": "Joseph Murphy",
+    "genre": "Self-Help",
+    "rating": 4.6,
+    "description": "Harness the power of your subconscious mind.",
+    "image": "https://books.google.com/books/content?id=AejNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": 5,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "rating": 4.4,
+    "description": "Personal finance and wealth building lessons.",
+    "image": "https://books.google.com/books/content?id=kRqeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "rating": 4.8,
+    "description": "Bilbo Baggins embarks on a grand adventure.",
+    "image": "https://books.google.com/books/content?id=U799AY3yfqcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": 7,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "rating": 4.9,
+    "description": "Harry discovers he is a wizard.",
+    "image": "https://books.google.com/books/content?id=kTH6zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 8,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "rating": 4.7,
+    "description": "A classic tale of love and misunderstanding.",
+    "image": "https://books.google.com/books/content?id=ydULEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": 9,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "rating": 4.8,
+    "description": "A novel about racial injustice and moral growth.",
+    "image": "https://books.google.com/books/content?id=0NEbHGREK7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": 10,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "rating": 4.7,
+    "description": "Timeless lessons on wealth, greed, and happiness.",
+    "image": "https://books.google.com/books/content?id=TnrrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  }
+]
